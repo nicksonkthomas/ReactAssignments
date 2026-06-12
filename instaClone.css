@@ -1,0 +1,22 @@
+
+body{
+
+    background: #833AB4;
+background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+button{
+    color: white;
+    background-color: rgb(13, 207, 213);
+    width: 300px;
+    height:30px;
+    border: 1px solid white;
+}
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+}
+a:hover{
+    color: #000000;
+}
+
